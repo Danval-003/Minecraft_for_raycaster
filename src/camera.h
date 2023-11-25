@@ -14,5 +14,7 @@ public:
   void rotate(float deltaX, float deltaY);
 
   void move(float deltaZ);
+
+  void upper(float de);
 };
 

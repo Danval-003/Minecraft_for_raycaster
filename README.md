@@ -4,7 +4,7 @@ This project demonstrates a simple raycasting engine to render a Minecraft-theme
 
 ![Imagen](https://github.com/Danval-003/Minecraft_for_raycaster/blob/main/forReadme/videoRead.gif?raw=true)
 
-![Alternativo]()
+![Alternativo](https://github.com/Danval-003/Minecraft_for_raycaster/blob/main/forReadme/alternativo.gif?raw=true)
 
 ## Scene Overview
 The scene consists of a 3D diorama constructed using Minecraft-style blocks. There are five materials in the scene:
